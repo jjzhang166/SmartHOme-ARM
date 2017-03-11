@@ -1,6 +1,7 @@
 # 基于zigbee和STM32的环境监测监控系统
 ### 系统功能
 详细的介绍可以看博客[http://blog.csdn.net/u013704336/article/details/51765397][1]
+这个项目作为2016年的毕设，完美完成了各项要求。综合利用了所学的C语言、C++、zigbee、stm32、Qt、ARM、等嵌入式技术。
 
   [1]: http://blog.csdn.net/u013704336/article/details/51765397
   
